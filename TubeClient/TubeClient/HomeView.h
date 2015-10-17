@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HomeView.h
 //  TubeClient
 //
 //  Created by Danny on 10/10/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HomeView : UIViewController
 
 @end
-
